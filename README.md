@@ -20,6 +20,6 @@ Create `apps/<product>/index.html`, reuse `assets/styles.css`, add a card to the
 
 ## Identity and content
 
-The public portfolio name is Yas; full name is Yas Merak. The App Store developer name is Mohamed Yasin. Use the blue geometric Y identity, not an asterisk motif.
+The public portfolio name is Yas; full name is Yas Merak. Use only these names in portfolio content. Use the blue geometric Y identity, not an asterisk motif.
 
 Weavernote features and public assets are based on the product codebase. Expense Whisper features are based on its App Store listing and local codebase; its gallery uses existing product images from the local marketing assets. Refer to the App Store for current availability and in-app purchase details.
