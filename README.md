@@ -1,20 +1,25 @@
-# Yasmerak
+# Yas portfolio
 
-Yasin’s portfolio and product collection, published at https://yasmerak.site.
+Personal portfolio and product collection at https://yasmerak.site.
 
 ## Pages
 
-- `/` — portfolio and selected work
-- `/apps/weavernote/` — Weavernote product page
+- `/` — Yas’s portfolio and selected work
+- `/apps/weavernote/` — connected notes and AI study tools
+- `/apps/expense-whisper/` — voice expense tracker for iPhone and iPad
 
-This is a static HTML/CSS site. GitHub Pages publishes `main` from the repository root. `CNAME` preserves the custom domain; `.nojekyll` disables unnecessary Jekyll processing.
+## Development
 
-Preview locally with `python3 -m http.server 8080 --bind 127.0.0.1`.
+A static HTML/CSS site, published from `main` at the repository root. `CNAME` preserves the custom domain and `.nojekyll` disables Jekyll processing.
+
+Preview with `python3 -m http.server 8080 --bind 127.0.0.1`.
 
 ## Adding a product
 
-Create `apps/<product>/index.html`, reuse `assets/styles.css`, add the product to the homepage, and update `sitemap.xml`. Use verified features and actual product assets. Keep credentials and unrelated application source outside this repository.
+Create `apps/<product>/index.html`, reuse `assets/styles.css`, add a card to the homepage, and update `sitemap.xml`. Product pages can live here permanently or link to a dedicated product website where applicable. Link visitors to the product and its store listing; do not add source-code or developer-account links.
 
-## Product content
+## Identity and content
 
-Weavernote copy is based on its About page, feature pages, and implemented workflows. Product images are the existing public logo, workspace, visualizer, and AI Studio WebP assets from the Weavernote codebase. Feature availability and pricing remain linked to the product’s own website.
+The public portfolio name is Yas; full name is Yas Merak. The App Store developer name is Mohamed Yasin. Use the blue geometric Y identity, not an asterisk motif.
+
+Weavernote features and public assets are based on the product codebase. Expense Whisper features are based on its App Store listing and local codebase; its gallery uses existing product images from the local marketing assets. Refer to the App Store for current availability and in-app purchase details.
