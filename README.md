@@ -8,6 +8,10 @@ Personal portfolio and product collection at https://yasmerak.site.
 - `/apps/weavernote/` — connected notes and AI study tools
 - `/apps/expense-whisper/` — voice expense tracker for iPhone and iPad
 
+- `/apps/petalune/` — offline lotus logic puzzles for iPhone and iPad
+- `/apps/petalune/support/` — puzzle, purchase, and progress help with a public contact
+- `/apps/petalune/privacy/` — app and website privacy policy
+
 ## Development
 
 A static HTML/CSS site, published from `main` at the repository root. `CNAME` preserves the custom domain and `.nojekyll` disables Jekyll processing.
@@ -25,3 +29,5 @@ The public portfolio name is Yas; full name is Yas Merak. Use only these names i
 Weavernote features and public assets are based on the product codebase. Expense Whisper features are based on its App Store listing and local codebase; its gallery uses existing product images from the local marketing assets. Refer to the App Store for current availability and in-app purchase details.
 
 The Weavernote workspace preview uses the full-resolution screenshot supplied by Yas on October 6, 2026, unchanged.
+
+Petalune features and optimized screenshots come from its native project and App Store marketing assets. The offer covers 24 free starter puzzles, a daily pick, and an optional one-time unlock for 220 launch puzzles. Add the public store listing when it becomes available.
