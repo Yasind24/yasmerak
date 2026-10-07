@@ -12,6 +12,10 @@ Personal portfolio and product collection at https://yasmerak.site.
 - `/apps/petalune/support/` — puzzle, purchase, and progress help with a public contact
 - `/apps/petalune/privacy/` — app and website privacy policy
 
+- `/apps/pip/` — offline robot spatial puzzles for iPhone and iPad
+- `/apps/pip/support/` — puzzle, purchase, and progress help
+- `/apps/pip/privacy/` — on-device data, diagnostic sharing, and purchase privacy
+
 ## Development
 
 A static HTML/CSS site, published from `main` at the repository root. `CNAME` preserves the custom domain and `.nojekyll` disables Jekyll processing.
@@ -31,3 +35,5 @@ Weavernote features and public assets are based on the product codebase. Expense
 The Weavernote workspace preview uses the full-resolution screenshot supplied by Yas on October 6, 2026, unchanged.
 
 Petalune features and optimized screenshots come from its native project and App Store marketing assets. The offer covers 24 free starter puzzles, a daily pick, and an optional one-time unlock for 220 launch puzzles. Add the public store listing when it becomes available.
+
+PIP is the public name of the app in the local Lockshift project. Features come from its native Swift code and 200-room catalog; images come from current App Store captures and bundled artwork. The first 20 rooms are free; an optional non-consumable Full Journey unlock adds 180 rooms. Add the public App Store listing when available.
